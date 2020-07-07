@@ -2,15 +2,13 @@
     margin-bottom: 100px;
 
 }
-.orange-bg{
-    background-color: white;
-  
-}
-.carousel-item{
+
+  .carousel-item{
     padding: 20px 40px;
 }
 .buy-now-button{
     background-color: black;
+
     color: white;
     border:none;
     border-radius: 8px;
@@ -40,7 +38,7 @@ span.cat{
     display:inline-block;
     background-color: orange;
 }
-.cate-bg{
+.cat-bg{
     box-shadow: 5px 5px 10px lightgray;
     padding: 20px;
     border-radius: 0 25px;
@@ -50,4 +48,8 @@ span.cat{
 }
 .order img{
     width: 100%;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
 }
